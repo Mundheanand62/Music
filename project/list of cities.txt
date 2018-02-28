@@ -1,0 +1,6 @@
+1]America		2]Japan		3]Korea 		4]France		5]austrelia 
+--a)New york	--a)Tokyo		--a)seoul		--a]paris		--a]sydney	
+--b)washington DC	--b)Kyoto		--b)busan		--b]french riviera	--b]melbourne
+--c)Chicago	--c)osaka		--c)daegu		--c]nice		--c]brisbane
+--d)Boston		--d)hiroshima	--d)suwon		--d]chamonix	--d]gold coast
+--e)Los Angeles	--e)nara		--e)daejeon	--e]lyon 		--e]perth
